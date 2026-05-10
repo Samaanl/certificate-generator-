@@ -48,4 +48,4 @@ Open `script.py` and modify the `NAME_BOX` and `INSTITUTE_BOX` dictionaries:
 - Pillow (`pip install Pillow`)
 
 ---
-Created with ❤️ by Antigravity
+note: set the `DEBUG_BOXES = True` to see the bounding boxes
